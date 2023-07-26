@@ -36,7 +36,7 @@ sqrt(x)
 ```
 
 ## Output:
-![gcd of two number](image.png)
+![gcd of two number](/Screenshot%202023-07-26%20173328.png)
 
 
 ## Result:
