@@ -36,7 +36,7 @@ sqrt(x)
 ```
 
 ## Output:
-![gcd of two number](![Alt text](image.png))
+![gcd of two number](image.png)
 
 
 ## Result:
